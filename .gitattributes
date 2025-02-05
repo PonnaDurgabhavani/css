@@ -1,1 +1,22 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>good morning everyone <i>this is durga bhavani</i></p>
+    <p>good morning everyone <em>this is durga bhavani</em></p>
+    <p>good morning everyone <strong>this is durga bhavani</strong></p>
+    <p>good morning everyone <b>this is durga bhavani</b></p>
+    <p>good morning everyone <u>this is durga bhavani</u></p>
+    <dl>
+        <dt>Semantic HTML</dt>
+        <dd>
+          Use the elements based on their <b>semantic</b> meaning, not their
+          appearance.
+        </dd>
+      </dl>
+</body>
+</html>
